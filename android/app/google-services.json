@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "85036094564",
+    "project_id": "zinfytech",
+    "storage_bucket": "zinfytech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85036094564:android:f2de5825999b81395ffb71",
+        "android_client_info": {
+          "package_name": "com.example.zinfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85036094564-4h3h2ebnulf05nubd5l3jir73105ij2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zinfy",
+            "certificate_hash": "6bef19f1495a825b13b051740d9b420306caa8e5"
+          }
+        },
+        {
+          "client_id": "85036094564-skqvhml3k7hien178382agp98hbs1cde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqis8uov9eOKTUPA81ymO9ePNP2SunOpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85036094564-skqvhml3k7hien178382agp98hbs1cde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
